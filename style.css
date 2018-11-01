@@ -1,0 +1,67 @@
+.anuncio{
+    background-color: #004d00; 
+    color: gold;
+    padding-top: 0%;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+
+
+
+
+}
+.cody-1{
+    padding-left: 5px;
+}
+.cody-2 {
+    padding-left: 5px;
+}
+.cody-3 {
+    padding-left: 5px;
+}
+.cody-4 {
+    padding-left: 5px;
+}
+.cody-5 {
+    padding-left: 5px;
+}
+body{
+
+    background-color: #00001a;
+}
+.ima1{
+     padding-top: 10px;
+     height: 95px;
+     width: 500; 
+     align: center;
+     padding-left: 70px;
+     padding-right: 60px; 
+
+    
+     
+}
+.menu{
+     padding-top: 0px;
+     height: 40px;
+     width: 40; 
+     align: right;
+     padding-left: 30px ; 
+     
+     
+
+}
+.tabla1{
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+}
+.pie{
+    text-align: center;
+    justify-content: center;
+}
+.pie:hover{
+    font-size: 25px;
+    font-family: arial;
+    color: gold;
+}
